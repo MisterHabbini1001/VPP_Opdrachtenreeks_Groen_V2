@@ -1,0 +1,10 @@
+C:\Users\habbo\source\repos\VPP_Opdrachtenreeks_Groen\bin\Debug\VPP_Opdrachtenreeks_Groen.exe.config
+C:\Users\habbo\source\repos\VPP_Opdrachtenreeks_Groen\bin\Debug\VPP_Opdrachtenreeks_Groen.exe
+C:\Users\habbo\source\repos\VPP_Opdrachtenreeks_Groen\bin\Debug\VPP_Opdrachtenreeks_Groen.pdb
+C:\Users\habbo\source\repos\VPP_Opdrachtenreeks_Groen\obj\Debug\VPP_Opdrachtenreeks_Groen.csproj.AssemblyReference.cache
+C:\Users\habbo\source\repos\VPP_Opdrachtenreeks_Groen\obj\Debug\VPP_Opdrachtenreeks_Groen.Taxikosten_1.resources
+C:\Users\habbo\source\repos\VPP_Opdrachtenreeks_Groen\obj\Debug\VPP_Opdrachtenreeks_Groen.Properties.Resources.resources
+C:\Users\habbo\source\repos\VPP_Opdrachtenreeks_Groen\obj\Debug\VPP_Opdrachtenreeks_Groen.csproj.GenerateResource.cache
+C:\Users\habbo\source\repos\VPP_Opdrachtenreeks_Groen\obj\Debug\VPP_Opdrachtenreeks_Groen.csproj.CoreCompileInputs.cache
+C:\Users\habbo\source\repos\VPP_Opdrachtenreeks_Groen\obj\Debug\VPP_Opdrachtenreeks_Groen.exe
+C:\Users\habbo\source\repos\VPP_Opdrachtenreeks_Groen\obj\Debug\VPP_Opdrachtenreeks_Groen.pdb
